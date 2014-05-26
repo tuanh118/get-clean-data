@@ -64,8 +64,14 @@
 * Mean time of Body Gyro in the Z direction
 * [-1, 1]
 ###timebodygyrostdx
+* Standard deviation time of Body Gyro in the X direction
+* [-1, 1]
 ###timebodygyrostdy
+* Standard deviation time of Body Gyro in the Y direction
+* [-1, 1]
 ###timebodygyrostdz
+* Standard deviation time of Body Gyro in the Z direction
+* [-1, 1]
 ###timebodygyrojerkmeanx
 * Mean time of Jerk signal of Body Gyro in the X direction
 * [-1, 1]
@@ -76,77 +82,119 @@
 * Mean time of Jerk signal of Body Gyro in the Z direction
 * [-1, 1]
 ###timebodygyrojerkstdx
+* Standard deviation time of Jerk signal of Body Gyro in the X direction
+* [-1, 1]
 ###timebodygyrojerkstdy
+* Standard deviation time of Jerk signal of Body Gyro in the Y direction
+* [-1, 1]
 ###timebodygyrojerkstdz
+* Standard deviation time of Jerk signal of Body Gyro in the Z direction
+* [-1, 1]
 ###timebodyaccmagmean
 * Mean of 3-dimensional magnitude of time of Body Acceleration 
 * [-1, 1]
 ###timebodyaccmagstd
+* Standard deviation of 3-dimensional magnitude of time of Body Acceleration 
+* [-1, 1]
 ###timegravityaccmagmean
 * Mean of 3-dimensional magnitude of time of Gravity Acceleration 
 * [-1, 1]
 ###timegravityaccmagstd
+* Standard deviation of 3-dimensional magnitude of time of Gravity Acceleration 
+* [-1, 1]
 ###timebodyaccjerkmagmean
 * Mean of 3-dimensional magnitude of time of Jerk signal of Body Acceleration 
 * [-1, 1]
 ###timebodyaccjerkmagstd
+* Standard deviation of 3-dimensional magnitude of time of Jerk signal of Body Acceleration 
+* [-1, 1]
 ###timebodygyromagmean
 * Mean of 3-dimensional magnitude of time of Body Gyro
 * [-1, 1]
 ###timebodygyromagstd
+* Standard deviation of 3-dimensional magnitude of time of Body Gyro
+* [-1, 1]
 ###timebodygyrojerkmagmean
 * Mean of 3-dimensional magnitude of time of Jerk signal of Body Gyro
 * [-1, 1]
 ###timebodygyrojerkmagstd
+* Standard deviation of 3-dimensional magnitude of time of Jerk signal of Body Gyro
+* [-1, 1]
 ###freqbodyaccmeanx
 * Mean frequency of Body Acceleration in the X direction
 * [-1, 1]
 ###freqbodyaccmeany
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Body Acceleration in the Y direction
 * [-1, 1]
 ###freqbodyaccmeanz
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Body Acceleration in the Z direction
 * [-1, 1]
 ###freqbodyaccstdx
+* Standard deviation frequency of Body Acceleration in the X direction
+* [-1, 1]
 ###freqbodyaccstdy
+* Standard deviation frequency of Body Acceleration in the Y direction
+* [-1, 1]
 ###freqbodyaccstdz
+* Standard deviation frequency of Body Acceleration in the Z direction
+* [-1, 1]
 ###freqbodyaccjerkmeanx
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Jerk signal of Body Acceleration in the X direction
 * [-1, 1]
 ###freqbodyaccjerkmeany
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Jerk signal of Body Acceleration in the Y direction
 * [-1, 1]
 ###freqbodyaccjerkmeanz
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Jerk signal of Body Acceleration in the Z direction
 * [-1, 1]
 ###freqbodyaccjerkstdx
+* Standard deviation frequency of Jerk signal of Body Acceleration in the X direction
+* [-1, 1]
 ###freqbodyaccjerkstdy
+* Standard deviation frequency of Jerk signal of Body Acceleration in the Y direction
+* [-1, 1]
 ###freqbodyaccjerkstdz
+* Standard deviation frequency of Jerk signal of Body Acceleration in the Z direction
+* [-1, 1]
 ###freqbodygyromeanx
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Body Gyro in the X direction
 * [-1, 1]
 ###freqbodygyromeany
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Body Gyro in the Y direction
 * [-1, 1]
 ###freqbodygyromeanz
-* Mean frequency of Body Acceleration in the X direction
+* Mean frequency of Body Gyro in the Z direction
 * [-1, 1]
 ###freqbodygyrostdx
+* Standard deviation frequency of Body Gyro in the X direction
+* [-1, 1]
 ###freqbodygyrostdy
+* Standard deviation frequency of Body Gyro in the Y direction
+* [-1, 1]
 ###freqbodygyrostdz
+* Standard deviation frequency of Body Gyro in the Z direction
+* [-1, 1]
 ###freqbodyaccmagmean
-* 3-dimensional magnitude of time of Gravity Acceleration
+* Mean of 3-dimensional magnitude of frequency of Body Acceleration
 * [-1, 1]
 ###freqbodyaccmagstd
+* Standard deviation of 3-dimensional magnitude of frequency of Body Acceleration
+* [-1, 1]
 ###freqbodybodyaccjerkmagmean
-* 3-dimensional magnitude of time of Gravity Acceleration
+* Mean of 3-dimensional magnitude of frequency of Jerk signal of Body Acceleration
 * [-1, 1]
 ###freqbodybodyaccjerkmagstd
+* Standard deviation of 3-dimensional magnitude of frequency of Jerk signal of Body Acceleration
+* [-1, 1]
 ###freqbodybodygyromagmean
-* 3-dimensional magnitude of time of Gravity Acceleration
+* Mean of 3-dimensional magnitude of frequency of Body Gyro
 * [-1, 1]
 ###freqbodybodygyromagstd
+* Standard deviation of 3-dimensional magnitude of frequency of Body Gyro
+* [-1, 1]
 ###freqbodybodygyrojerkmagmean
-* 3-dimensional magnitude of time of Gravity Acceleration
+* Mean of 3-dimensional magnitude of frequency of Jerk signal of Body Gyro
 * [-1, 1]
 ###freqbodybodygyrojerkmagstd
+* Standard deviation of 3-dimensional magnitude of frequency of Jerk signal of Body Gyro
+* [-1, 1]
